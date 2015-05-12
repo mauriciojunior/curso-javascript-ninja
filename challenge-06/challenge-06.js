@@ -66,6 +66,7 @@ Crie uma função chamada `convertToHex`, com as seguintes características:
     a frase:
     "Não temos o equivalente hexadecimal para [COR]."
 */
+<<<<<<< HEAD
 function convertToHex (color) {
     var hexColor;
     switch( color ){
@@ -91,3 +92,11 @@ function convertToHex (color) {
     return 'O hexadecimal para a cor ' + color + ' é ' + hexColor + '.';
 }
 console.log( convertToHex( 'black' ) );
+=======
+// ?
+
+/*
+Tente mostrar o hexadecimal de 8 cores diferentes usando a função criada acima.
+*/
+// ?
+>>>>>>> upstream/master
